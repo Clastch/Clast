@@ -1,4 +1,4 @@
-# Clast
+# Clastch
 Merhaba bu web site bilgisayarınıza internetsiz müzik, video ve oyun indirebilirsin.
 Oyunlar
 <br><br>
