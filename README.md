@@ -1,6 +1,9 @@
 # Clastch
 Merhaba bu web site bilgisayarınıza internetsiz müzik, video ve oyun indirebilirsin.
 İlk başta Hesap oluşturarak başlayabiliriz!
+<DOCTYPE html>
+<html>
+<body>
 <label for="isim">Kullanıcı Adı:</label>
 <input type="text" name="isim" id="isim"
 placeholder="Ahmet">
@@ -40,4 +43,5 @@ placeholder="***************" maxlength="64">
 <br>
 <br>
 <a href="https://hub.kodland.org/en/project/306734?stopDirectLinkBehavior=true">Cookie Clicker</a>
-
+</body>
+</html>
